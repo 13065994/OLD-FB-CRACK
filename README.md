@@ -8,24 +8,18 @@
 
 * `pkg install git`
 
-* `pip install requests`
 
-* `pip install mechanize`
-
-* `pip install futures`
-
-* `pip install rich`
-
-* `pip install bs4`
-
-* `rm -rf OLD-FB-CRACK`
-
-* `git clone https://github.com/MUMIT-404-CYBER/OLD-FB-CRACK`
-
-* `cd OLD-FB-CRACK`
-
-* `python Crack.py`
-
+```bash
+pip install requests
+pip install mechanize
+pip install futures
+pip install rich
+pip install bs4
+rm -rf OLD-FB-CRACK
+git clone https://github.com/MUMIT-404-CYBER/OLD-FB-CRACK.git
+cd OLD-FB-CRACK
+python Crack.py
+```
 
 ___This Tool is Free Enjoy Dear User.___</br>
 
